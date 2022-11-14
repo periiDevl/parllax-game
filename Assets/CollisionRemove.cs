@@ -8,7 +8,6 @@ public class CollisionRemove : MonoBehaviour
     public List<GameObject> Spawnlevel;
     public Material Material;
     public LayerMask playerMask;
-    [Range(0, 0.01f)]
     public float time = 0.001f;
     float value = -0.8f;
     bool colided = false;
@@ -36,7 +35,7 @@ public class CollisionRemove : MonoBehaviour
     {
         if (colided && value < 1)
         {
-            value = value + time;
+            value = value + time * Time.deltaTime;
             Material.SetFloat("_Visibility", value);
         }
     }
