@@ -24,6 +24,7 @@ for parrlax park
 
 [parrlax level]
 Sten Ulfsson - Office Supplies Low Poly
+textures4photoshop - www.textures4photoshop image (http://www.textures4photoshop.com/tex/isolated-objects/blue-cloud-png-transparent.aspx?s=cloud)
 
 [big room]
 (off pexels.com)
