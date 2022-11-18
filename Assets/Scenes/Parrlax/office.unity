@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.5903317, g: 0.5864257, b: 0.5864257, a: 1}
+  m_IndirectSpecularColor: {r: 0.59082127, g: 0.5864257, b: 0.5864257, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -12349,10 +12349,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enable: 1
-  _amplitude: 0.00354
-  _frequency: 18.4
-  _camera: {fileID: 1738205949}
-  _cameraHolder: {fileID: 330585546}
+  _amplitude: 0.0158
+  _frequency: 22.7
+  _camera: {fileID: 330585546}
+  _cameraHolder: {fileID: 1738205949}
   movementScript: {fileID: 308465854}
   Start: 0.5
 --- !u!143 &308465859
@@ -12367,7 +12367,7 @@ CharacterController:
   m_Enabled: 1
   serializedVersion: 2
   m_Height: 3.16
-  m_Radius: 0.7
+  m_Radius: 0.23
   m_SlopeLimit: 45
   m_StepOffset: 0
   m_SkinWidth: 0.08
@@ -21191,7 +21191,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.8
+  m_Radius: 0.59
   m_Height: 0
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
