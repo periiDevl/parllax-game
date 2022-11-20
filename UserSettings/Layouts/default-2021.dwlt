@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 6524
+  controlID: 1502
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 6525
+  controlID: 1503
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 6526
+  controlID: 1504
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -408,7 +408,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 848fffffa494ffffb896ffff8cd3ffffdcdaffff70e3ffff9ee4ffff04fbffff3e6a0000da790000e67d0000f47d0000b28f00005a91000066910000d8990000e49d0000f29d000084fb000078000100160201004802010092040100
+      m_ExpandedIDs: 32fbffffb6680000bc690000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1053,9 +1053,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.2638507, y: 1.465952, z: 2.1005306}
+    m_Target: {x: -3.1038628, y: 7.6813564, z: 14.960577}
     speed: 2
-    m_Value: {x: -2.2638507, y: 1.465952, z: 2.1005306}
+    m_Value: {x: -3.1038628, y: 7.6813564, z: 14.960577}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1102,13 +1102,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.010045753, y: -0.3771294, z: 0.0039969874, w: 0.92617255}
+    m_Target: {x: 0.00972931, y: 0.43390474, z: -0.0047155693, w: 0.9009788}
     speed: 2
-    m_Value: {x: -0.010045753, y: 0.3771294, z: -0.0039969874, w: -0.92617255}
+    m_Value: {x: 0.013762249, y: 0.43654656, z: -0.006709381, w: 0.89955145}
   m_Size:
-    m_Target: 1.7310114
+    m_Target: 14.824074
     speed: 2
-    m_Value: 1.7310114
+    m_Value: 14.824074
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1204,22 +1204,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Parrlax
+    - Assets/models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Scenes/Parrlax
+  - Assets/models
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\peric\OneDrive\Documents\dev\builds\github\parllax-game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: b46d0000
-    m_LastClickedID: 28084
-    m_ExpandedIDs: 00000000b46b00005a6d000000ca9a3bffffff7f
+    m_SelectedIDs: f66c0000
+    m_LastClickedID: 27894
+    m_ExpandedIDs: 00000000526b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1247,7 +1247,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b46b000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000526b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1334,7 +1334,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 65656
+  m_LastSelectedObjectID: -3140
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1409,7 +1409,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 191
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
