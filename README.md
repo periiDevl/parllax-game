@@ -1,5 +1,6 @@
 # parllax-game
-
+> This project is not longer in development, (I dont use Unity anymore I use Caliber my own game engine) 
+> But its a fun tech demo for Unity if you would like to copy some code or something.
 
 1. parrlax park -- the office - ((show parrlax park on the monitor of the office) office cutting off to parrlax park) - parrlax occlusion - park - just an avarge room (giant room filled with rooms)- deep under world(room breaking)
 
